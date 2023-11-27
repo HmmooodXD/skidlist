@@ -15,8 +15,8 @@ Make sure to star this repository to show your support.
 
 ## Tdvne
 - <b>Aliases:</b> Michael, Exevity
-- <b>Reason:</b> At least he skids for personal use unlike Ziue.
-- <b>Comment:</b> He's definitely skidded more because the proof is based on leaks from a year ago.
+- <b>Reason:</b> Pretending to be a java developer.
+- <b>Comment:</b> Atleast it's for personal use.
 - <b>Stuff that's skidded: |-</b>
   - <b>FrozedDisguise (eDisguise):</b> [Proof](https://prnt.sc/KmNpDIuqsJgk)
   - <b>Frost Practice (ePractice):</b> [Proof](https://prnt.sc/rye7bv_dFbya)
