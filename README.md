@@ -3,8 +3,8 @@
 This repository has a list of the biggest skids in the Minecraft community.
 Make sure to star this repository to show your support.
 
-## Ziue
-- <b>Aliases:</b> Devuxious
+## iusemeteor
+- <b>Aliases:</b> nigher
 - <b>Reason:</b> This annoying moron tries to call people out for skidding while also doing the same thing.
 - <b>Comment:</b> In conclusion, I don't know how this guy is still respected in the community. Not only does he skid stuff but also resells it, claiming it as his own. He also leaks content on blackspigot and somehow gets more downloads than the original leaker.
 - <b>Stuff that's skidded: |-</b>
