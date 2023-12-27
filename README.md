@@ -26,4 +26,4 @@ Make sure to star this repository to show your support.
   - <b>AquaCore (eCore):</b> [Proof](https://prnt.sc/sm903HnehgAX)
   - <b>StrikePractice (ePractice):</b> [Proof](https://prnt.sc/CLd1e5Vcat05)
 
-*notice how i actually attached proof in this repo, unlike ziue who just adds people to the list that he dislikes.*
+*notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
