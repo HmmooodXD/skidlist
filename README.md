@@ -31,7 +31,7 @@ Make sure to star this repository to show your support.
 - <b>Reason:</b> Manipluating, Lying, Backstabbing
 - <b>Comment:</b> Fuck you Savrien!
 - <b>Stuff that's skidded: |-</b>
-  - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/WcGX6DiZXp5O) | [Proof 2](https://prnt.sc/RStSENYGXlHYl) | [Proof 3](https://prnt.sc/h7UUYEn7p1O0) | [Proof 4](https://prnt.sc/fXlUhcnT8Xn3)
+  - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/WcGX6DiZXp5O) | [Proof 2](https://prnt.sc/8NGxQbqiCqqZ) | [Proof 3](https://prnt.sc/fXlUhcnT8Xn3)
   - <b>Holographic Displays (XeChatTags):</b> [Proof](https://prnt.sc/t3D6fNrGS1oO)
 
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
