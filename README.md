@@ -25,5 +25,12 @@ Make sure to star this repository to show your support.
   - <b>FateHubCore (eHub):</b> [Proof](https://prnt.sc/3Rf5qMikp70L)
   - <b>AquaCore (eCore):</b> [Proof](https://prnt.sc/sm903HnehgAX)
   - <b>StrikePractice (ePractice):</b> [Proof](https://prnt.sc/CLd1e5Vcat05)
+ 
+ ## Savrien
+- <b>Aliases:</b> Elijah, GamingMIDI
+- <b>Reason:</b> Manipluating and lying
+- <b>Comment:</b> Not much proof here but it's common sense he skidded frost.
+- <b>Stuff that's skidded: |-</b>
+  - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/WcGX6DiZXp5O) | [Proof 2](https://prnt.sc/RStSENYGXlHYl) | [Proof 3](https://prnt.sc/h7UUYEn7p1O0)
 
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
