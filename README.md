@@ -4,7 +4,7 @@ This repository has a list of the biggest skids in the Minecraft community.
 Make sure to star this repository to show your support.
 
 ## Ziue
-- <b>Aliases:</b> Devuxious
+- <b>Aliases:</b> Devuxious, Remi
 - <b>Reason:</b> This annoying moron tries to call people out for skidding while also doing the same thing.
 - <b>Comment:</b> In conclusion, I don't know how this guy is still respected in the community. Not only does he skid stuff but also resells it, claiming it as his own. He also releaks content on blackspigot and somehow gets more downloads than the original leaker.
 - <b>Stuff that's skidded: |-</b>
@@ -13,6 +13,8 @@ Make sure to star this repository to show your support.
   - <b>Reselling Yang Practice:</b> [Proof](https://prnt.sc/WKphFl7NfIyn)
   - <b>AquaCore (cCore):</b> [Proof](https://prnt.sc/PR3-RVn_3dNX) | [Proof 2](https://prnt.sc/OkqKWH3dFt7l) | [Proof 3](https://prnt.sc/XM7Z0IJdVKu1)
   - <b>pSpigot (cSpigot):</b> [Proof](https://prnt.sc/4zzjrXz9mV-y) | [Proof 2](https://prnt.sc/2EV09-3igYFo) | [Proof 3](https://prnt.sc/5u-rEcKyPPAM)
+- <b>BONUS: |-</b>
+  - <b>Adding ppl to his skidlist for literally no reason:</b> [Proof](https://prnt.sc/ze8x2uXeC524) | [Proof 2](https://prnt.sc/YMvgs5-73oJJ)
 
 ## Tdvne
 - <b>Aliases:</b> Michael, Exevity
