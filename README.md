@@ -38,7 +38,7 @@ Make sure to star this repository to show your support.
  
  ## Emmiesa
 - <b>Aliases:</b> Emmiereal
-- <b>Reason:</b> Leaking my premades & being a fake java developer
+- <b>Reason:</b> Leaking my premades & pretending to be a java developer
 - <b>Comment:</b> Changing the author&plugin name while also modifying the code without permission is **SKIDDING**
 - <b>Stuff that's skidded: |-</b>
   - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/rG8erW3X-b2O) | [Proof 2](https://prnt.sc/sHKOAS98ZRv0) | [Proof 3](https://prnt.sc/rafAUCp4ooHc)
