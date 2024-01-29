@@ -39,7 +39,7 @@ Make sure to star this repository to show your support.
  ## Emmiesa
 - <b>Aliases:</b> Emmiereal
 - <b>Reason:</b> Leaking my premades & pretending to be a java developer
-- <b>Comment:</b> Changing the author&plugin name while also modifying the code without permission is **SKIDDING**
+- <b>Comment:</b> Stealing a leaked project and claiming it as your own is **SKIDDING**.
 - <b>Stuff that's skidded: |-</b>
   - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/rG8erW3X-b2O) | [Proof 2](https://prnt.sc/sHKOAS98ZRv0) | [Proof 3](https://prnt.sc/rafAUCp4ooHc)
   - <b>AquaCore (Core):</b> [Proof](https://prnt.sc/hhmYw4kvdzFD)
@@ -47,5 +47,6 @@ Make sure to star this repository to show your support.
   - <b>Her making a HelloWorld plugin:</b> [Video](https://www.youtube.com/watch?v=Reed8-oCgh4)
   - <b>Funny:</b> [Proof](https://prnt.sc/tqKlpZMO4VpK)
   - <b>Trusting her with my premade:</b> [Trust?](https://prnt.sc/zk8pSbHQu-TO) | [Threatening to leak](https://prnt.sc/zs6dQ6dxcp_2)
+  - <b>Acknowledgement from other developers:</b> [DAM (Discord bot developer)](https://prnt.sc/3KBIjfaCxm7Y) | [Java developer](https://prnt.sc/ijbeai7Pymtv) | [another dude](https://prnt.sc/56_yFhER57_n)
 
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
