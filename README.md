@@ -49,10 +49,4 @@ Make sure to star this repository to show your support.
   - <b>Trusting her with my premade:</b> [Trust?](https://prnt.sc/zk8pSbHQu-TO) | [Threatening to leak](https://prnt.sc/zs6dQ6dxcp_2)
   - <b>Vouchers:</b> [DAM (Discord bot developer)](https://prnt.sc/3KBIjfaCxm7Y) | [Java developer](https://prnt.sc/ijbeai7Pymtv) | [another java developer](https://prnt.sc/BSH9UbDpvkXl) | [another dude](https://prnt.sc/56_yFhER57_n) | [lua & nodejs developer](https://prnt.sc/9F-VgSIi_wcK)
 
- ## Meteor
-- <b>Aliases:</b> iusemeteor
-- <b>Reason:</b> idk
-- <b>Stuff that's skidded: |-</b>
-  - <b>Nothing:</b> [Proof](https://prnt.sc/wqCk2MSyaQX_)
-
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
