@@ -53,6 +53,6 @@ Make sure to star this repository to show your support.
 - <b>Aliases:</b> iusemeteor
 - <b>Reason:</b> idk
 - <b>Stuff that's skidded: |-</b>
-  - <b>Nothing:</b> (Proof)[https://prnt.sc/rG8erW3X-b2O]
+  - <b>Nothing:</b> [Proof](https://prnt.sc/rG8erW3X-b2O)
 
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
