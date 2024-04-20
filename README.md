@@ -53,6 +53,6 @@ Make sure to star this repository to show your support.
 - <b>Aliases:</b> iusemeteor
 - <b>Reason:</b> idk
 - <b>Stuff that's skidded: |-</b>
-  - <b>Nothing:</b> [Proof]([https://prnt.sc/rG8erW3X-b2O](https://media.discordapp.net/attachments/1231305969821286491/1231338162547327078/h7iWepz3KBKG8zAiGqobTgSZtJsO846L.png?ex=66369807&is=66242307&hm=7c083387624be51cc8e2d7f018bf901bdd82f3d34b02e76eb8a9b6475f5de482&=&format=webp&quality=lossless))
+  - <b>Nothing:</b> (Proof)[https://prnt.sc/rG8erW3X-b2O]
 
 *notice how i actually attached proof in this repo, unlike ziue who just adds people to the list with NO CONTEXT*
